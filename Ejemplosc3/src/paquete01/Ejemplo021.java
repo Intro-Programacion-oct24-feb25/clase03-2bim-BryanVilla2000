@@ -32,6 +32,7 @@ public class Ejemplo021 {
                 cadenaFinal = String.format("%sfila[%d] columna[%d] = %d\n", 
                         cadenaFinal, fila, col, arreglo1[fila][col]);
             }
+            cadenaFinal= String.format("%s ...................\n", cadenaFinal);
         }
         
         System.out.printf("%s\n", cadenaFinal);
