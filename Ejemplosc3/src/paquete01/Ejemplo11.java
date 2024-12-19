@@ -32,7 +32,15 @@ public class Ejemplo11 {
         4    6
         30   52
         */
-        
+        /*
+        *
+        Se usa tres arreglas  para obtener una suma de arreglos bidimencionales 
+        sumando el arreglo uno mas el arreglo dos y guardando el resultado en 
+        el arreglo sumaArreglo
+        para obtener la suma  se extrae el vallor de cada posision del arrelo 
+        uno y dos , perose extrae de la misma posicion de ambos se los suma y 
+        se los guarda en la misma posision del arreglo sumaArreglo
+        */
         int valor1;
         int valor2;
         
